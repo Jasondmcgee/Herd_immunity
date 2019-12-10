@@ -1,0 +1,10 @@
+Simulation for virus: Coffee addiction
+Reproduction Number: 0.8, Mortality Number: 0.1
+Population Size: 105
+Initial Vaccinated: 0
+Initial Healthy: 100
+Initial Infected: 5
+
+Simulation Ended after 5 turns
+Total Dead: 7
+Total Vaccinated: 98
